@@ -1,4 +1,3 @@
-import React from 'react'
 import { Route, Routes } from 'react-router-dom'
 import KhushiPortfolio from './pages/PortfolioPage'
 import KhushiPortfolio2 from './pages/PortfolioPage2'
